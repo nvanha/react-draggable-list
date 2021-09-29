@@ -7,22 +7,22 @@ const html5Img = require("./images/html5-logo-240.png").default;
 export const listData = [
   {
     img: angularImg,
-    title: "Learn Angular in 21 days",
+    title: "Learn Angular",
   },
   {
     img: bootstrapImg,
-    title: "Learn BootStrap in 21 days",
+    title: "Learn BootStrap",
   },
   {
     img: css3Img,
-    title: "Learn CSS3 in 21 days",
+    title: "Learn CSS3",
   },
   {
     img: githubImg,
-    title: "Learn Github in 21 days",
+    title: "Learn Github",
   },
   {
     img: html5Img,
-    title: "Learn HTML5 in 21 days",
+    title: "Learn HTML5",
   },
 ];
