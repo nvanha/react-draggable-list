@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-draggable-list/static/css/main.2a5102ae.chunk.css",
+    "main.js": "/react-draggable-list/static/js/main.1b642512.chunk.js",
+    "main.js.map": "/react-draggable-list/static/js/main.1b642512.chunk.js.map",
+    "runtime-main.js": "/react-draggable-list/static/js/runtime-main.e01f1acf.js",
+    "runtime-main.js.map": "/react-draggable-list/static/js/runtime-main.e01f1acf.js.map",
+    "static/js/2.931c7db1.chunk.js": "/react-draggable-list/static/js/2.931c7db1.chunk.js",
+    "static/js/2.931c7db1.chunk.js.map": "/react-draggable-list/static/js/2.931c7db1.chunk.js.map",
+    "index.html": "/react-draggable-list/index.html",
+    "static/css/main.2a5102ae.chunk.css.map": "/react-draggable-list/static/css/main.2a5102ae.chunk.css.map",
+    "static/js/2.931c7db1.chunk.js.LICENSE.txt": "/react-draggable-list/static/js/2.931c7db1.chunk.js.LICENSE.txt",
+    "static/media/angular-logo-240.png": "/react-draggable-list/static/media/angular-logo-240.278a3a1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e01f1acf.js",
+    "static/js/2.931c7db1.chunk.js",
+    "static/css/main.2a5102ae.chunk.css",
+    "static/js/main.1b642512.chunk.js"
+  ]
+}
