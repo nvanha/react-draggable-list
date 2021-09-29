@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { listData } from "./assets/listData";
+import DraggableList from "./components/list/DraggableList";
+import Card from "./components/card/Card";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <h1 className="header">React drag and drop list</h1>
+      <DraggableList
+        data={listData}
+        renderItemContent={(item) => LessonCard(item)}
+      />
+    </>
   );
 }
+
+const LessonCard = (item) => <Card item={item} />;
 
 export default App;
